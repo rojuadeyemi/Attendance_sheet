@@ -1,6 +1,6 @@
 # Microsoft Excel Toolbox
 
-Welcome to the **Microsoft Excel Toolbox** repository! This collection features a variety of reports, dashboards, and automation solutions developed using Microsoft Excel. This toolbox is designed to enhance your productivity and provide actionable insights through advanced Excel functionalities.
+This collection includes a variety of reports, dashboards, and automation solutions developed using Microsoft Excel, all created and utilized during my work as a Data Analyst. Some of these tools are used daily, others frequently, and some only occasionally, but each one plays a crucial role in my analytical toolkit. My goal is to preserve and share this accumulated knowledge, ensuring these valuable resources are accessible to others and not lost over time
 
 ## Contents
 
@@ -33,3 +33,6 @@ To get started with the **Microsoft Excel Toolbox**, follow these steps:
    * Review the provided reports and dashboards.
    * Explore the automation features and scripts.
    * Customize the templates according to your needs.
+
+## Contact
+For any inquiries or feedback, please contact rojuadeyemi@yahoo.com
